@@ -3,8 +3,8 @@
 
 
 ## docker ps
-Role: Lists all currently running containers.
-Usage: Shows essential details like container ID, name, status, and ports.
+- Role: Lists all currently running containers.
+- Usage: Shows essential details like container ID, name, status, and ports.
 
 ## docker ps -a
 Role: Lists all containers, including stopped ones.
