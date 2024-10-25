@@ -2,13 +2,13 @@
 # managing, and troubleshooting containers and images
 
 
-docker ps
-# Role: Lists all currently running containers.
-# Usage: Shows essential details like container ID, name, status, and ports.
+## docker ps
+Role: Lists all currently running containers.
+Usage: Shows essential details like container ID, name, status, and ports.
 
-docker ps -a
-# Role: Lists all containers, including stopped ones.
-# Usage: Useful for reviewing past containers or checking the status/history of containers.
+## docker ps -a
+Role: Lists all containers, including stopped ones.
+Usage: Useful for reviewing past containers or checking the status/history of containers.
 
 docker logs -f <container>
 # Role: Follows and displays real-time logs for a specific container.
